@@ -29,21 +29,16 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- A
+- Programming and development
 
-- B
+- Analytic thinking and Problem solving
 
-- C
+- Teamwork and communication
 
-Programming Languages {#skills}
+Languages {#skills}
 --------------------------------------------------------------------------------
 
-- A
-
-- B
-
-- C
-
+- R / C++ / Python / C / SQL / CUDA / MPI / OpenMP / MATLAB / Bash
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -60,9 +55,13 @@ Main
 Nathan Doyle {#title}
 --------------------------------------------------------------------------------
 
-### Currently  
+### Data Scientist 
 
-abc.
+Currently working as a Data Scientist on the Data Anlytics team in the Department of Agriculture, Food and the Marine. 
+
+My educational background is in computing, mathematics and statistics.
+
+In my free time I enjoy playing card games, particularly contract bridge. I am a former member of Ireland's Junior Bridge Team with 18 international caps. 
 
 <!----------------------------------------------------------------------------->
 Professional Experience {data-icon=suitcase}
@@ -70,14 +69,16 @@ Professional Experience {data-icon=suitcase}
 
 ### Data Scientist 
 
-Department of Agriculture, Food and the Marine
+Department of Agriculture, Food & the Marine
 
 Kildare Street, Dublin
 
 Present - 2019
 
-- a
-- b
+- Data analysis, creating visualisations and presenting results.
+- Implementing and maintaining a shared linux server running RStudio, maintaining a shared package library.
+- Technical and user support to other members of the team with R and Git.
+- Deveoping a web app in R Shiny to allow users to access datasets from a SQL database, to view and filter the data without knowledge of R or SQL required.
 
 ### Maths Helproom Attendant 
 
@@ -87,8 +88,9 @@ Glasnevin, Dublin
 
 2017 - 2018
 
-- a
-- b
+- Provide one-to-one assitance to students during drop-in hours with problems in mathematics from a wide array of programmes including business, finance, science and economics.
+- Manage equipment and stationary, keep the room neat and tidy
+- Co-ordinate with other staff to ensure the needs of the students are met during busy hours
 
 <!----------------------------------------------------------------------------->
 Education {data-icon=graduation-cap data-concise=true}
@@ -128,35 +130,29 @@ Core Subjects + Economics, Applied Maths, Physics, Geography, French
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Trinity Access Program, Trinity College Dublin
+### Maths for STEM, Trinity Access Program
 
 Tutor in mathematics.
 
-College Green, Dublin
+Trinity College Dublin 
 
 Present - 2015
 
-::: concise
-- a
-- b
-- c
-- d
-:::
+- Presenting to classes of mixed ability and mixed ages
+- Correct homework and exam papers
 
-### Dublin City University
+
+### Numerical Methods, School of Mathematical Sciences
 
 Teaching assistant.
 
-Glasnevin, Dublin
+Dublin City University
 
-2017 - 2018
+2018 - 2017
 
-::: concise
-- a
-- b
-- c
-- d
-:::
+- Presenting to undergraduate level classes
+- Liase with lecturers on content of the course
+- Running practical tutorials on MATLAB
 
 <!-- Research Experience {data-icon=laptop} -->
 <!-- --------------------------------------------------------------------->
