@@ -1,0 +1,220 @@
+---
+title: "Nathan Doyle's CV"
+author: Nathan Doyle
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Name](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> nathandoyle1994@gmail.com
+- <i class="fa fa-github"></i> [github.com/](https://github.com/)
+- <i class="fa fa-phone"></i> +353 86 224 0046
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- A
+
+- B
+
+- C
+
+Programming Languages {#skills}
+--------------------------------------------------------------------------------
+
+- A
+
+- B
+
+- C
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Nathan Doyle {#title}
+--------------------------------------------------------------------------------
+
+### Currently  
+
+abc.
+
+<!----------------------------------------------------------------------------->
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist 
+
+Department of Agriculture, Food and the Marine
+
+Kildare Street, Dublin
+
+Present - 2019
+
+- a
+- b
+
+### Maths Helproom Attendant 
+
+Dublin City University
+
+Glasnevin, Dublin
+
+2017 - 2018
+
+- a
+- b
+
+<!----------------------------------------------------------------------------->
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Trinity College Dublin 
+
+MSc in High Performance Computing
+
+College Green, Dublin
+
+2017 - 2016
+
+Thesis: Communication Avoiding LU Decomposition of Dense Matrices
+
+### Trinity College Dublin
+
+BA in Mathematics
+
+College Green, Dublin
+
+2016 - 2012
+
+Topics: Data Analytics, Complex Analysis, Number Theory, Partial Differential Equations
+
+### Coláiste Eoin
+
+Leaving/Junior Certificate
+
+Stillorgan, Dublin
+
+2012 - 2006
+
+Core Subjects + Economics, Applied Maths, Physics, Geography, French 
+
+<!----------------------------------------------------------------------------->
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Trinity Access Program, Trinity College Dublin
+
+Tutor in mathematics.
+
+College Green, Dublin
+
+Present - 2015
+
+::: concise
+- a
+- b
+- c
+- d
+:::
+
+### Dublin City University
+
+Teaching assistant.
+
+Glasnevin, Dublin
+
+2017 - 2018
+
+::: concise
+- a
+- b
+- c
+- d
+:::
+
+<!-- Research Experience {data-icon=laptop} -->
+<!-- --------------------------------------------------------------------->
+
+<!-- ### Title -->
+
+<!-- Institude/School, Uni/Org -->
+
+<!-- Location -->
+
+<!-- Years -->
+
+<!-- - Description. -->
+<!-- - Description. -->
+
+<!-- ### Title -->
+
+<!-- Institute/School, Uni/Org -->
+
+<!-- Location -->
+
+<!-- Years -->
+
+<!-- - Description. -->
+<!-- - Description. -->
+
+<!-- ### Title -->
+
+<!-- Institude/School, Uni/Org -->
+
+<!-- Location -->
+
+<!-- Years -->
+
+<!-- - Description. -->
+<!-- - Description. -->
+
+<!-- Selected Publications and Posters {data-icon=file} -->
+<!-- -----------------------------------------------------------------
+
+<!-- ### Title. -->
+
+<!-- Description -->
+
+<!-- Location -->
+
+<!-- Year -->
+
+<!-- **Author**, Author, Author. -->
+
+<!-- ### Title. -->
+
+<!-- <!-- Example of reference in specific format --> 
+<!-- J Cell Sci. 2016 May 15;129(10):2075-84. -->
+
+<!-- <!-- If no location put N/A --> 
+<!-- N/A -->
+
+<!-- Year  -->
+
+<!-- Author, **Author**, Author.  -->
