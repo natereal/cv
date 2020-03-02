@@ -21,19 +21,23 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> nathandoyle1994@gmail.com
-- <i class="fa fa-github"></i> [github.com/](https://github.com/)
+- <i class="fa fa-github"></i> [github.com/oduilln](https://github.com/oduilln)
 - <i class="fa fa-phone"></i> +353 86 224 0046
-- For more information, please contact me via email.
+- For more information, please contact me via email. References are available on request 
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Programming and development
+- Data exploration and analysis
 
-- Analytic thinking and Problem solving
+- Proficient in Microsoft Word, Excel and PowerPoint
 
-- Teamwork and communication
+- Skilled in problem solving due to background in mathematics
+
+- Teamwork and communication developed through group projects, presentations and teaching
+
+- Fluent Irish speaker
 
 Languages {#skills}
 --------------------------------------------------------------------------------
@@ -57,14 +61,14 @@ Nathan Doyle {#title}
 
 ### Data Scientist 
 
-Currently working as a Data Scientist on the Data Anlytics team in the Department of Agriculture, Food and the Marine. 
+Currently working as a Data Scientist on the Data Anlytics team in the Department of Agriculture, Food and the Marine. The data anlytics team provide a unified view of data to provide an improved understanding of the DAFM herd population. We provide analysis in order to better target services to customers and to inform policy decisions up to the EU level.
 
 My educational background is in computing, mathematics and statistics.
 
 In my free time I enjoy playing card games, particularly contract bridge. I am a former member of Ireland's Junior Bridge Team with 18 international caps. 
 
 <!----------------------------------------------------------------------------->
-Professional Experience {data-icon=suitcase}
+Employment {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Data Scientist 
@@ -86,13 +90,69 @@ Dublin City University
 
 Glasnevin, Dublin
 
-2017 - 2018
+2018 - 2017
 
 - Provide one-to-one assitance to students during drop-in hours with problems in mathematics from a wide array of programmes including business, finance, science and economics.
-- Manage equipment and stationary, keep the room neat and tidy
-- Co-ordinate with other staff to ensure the needs of the students are met during busy hours
+- Manage equipment and stationary, keep the room neat and tidy.
+- Co-ordinate with other staff to ensure the needs of the students are met during busy hours.
 
-<!----------------------------------------------------------------------------->
+Other Qualificatons {data-icon=envelope}
+--------------------------------------------------------------------------------
+
+### Regional Tournament Director
+
+Contract Bridge Association Ireland
+
+Templeouge, Dublin 
+
+2019 - 2012
+
+- Organising structure and implementation of competitions
+- Apply laws of the game and resolve disputes
+- Deal with complaints from competitors
+- Calculate results, allocate prize money and award the prizes to winners
+
+### Qualified Barista
+
+Dublin Barista School
+
+South Anne Street, Dublin
+
+2019
+
+- Certified by the World Barista Association
+- Prepartion of coffee, maintenance of equipment
+- Customer service and café workflow systems
+
+\
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Maths for STEM, Trinity Access Program
+
+Tutor in mathematics.
+
+Trinity College Dublin 
+
+Present - 2015
+
+- Presenting to classes of mixed ability and mixed ages
+- Correct homework and exam papers
+
+
+### Numerical Methods, School of Mathematical Sciences
+
+Teaching assistant.
+
+Dublin City University
+
+2018 - 2017
+
+- Presenting to undergraduate level classes
+- Liase with lecturers on content of the course
+- Running practical tutorials on MATLAB
+
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -123,94 +183,3 @@ Leaving/Junior Certificate
 Stillorgan, Dublin
 
 2012 - 2006
-
-Core Subjects + Economics, Applied Maths, Physics, Geography, French 
-
-<!----------------------------------------------------------------------------->
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Maths for STEM, Trinity Access Program
-
-Tutor in mathematics.
-
-Trinity College Dublin 
-
-Present - 2015
-
-- Presenting to classes of mixed ability and mixed ages
-- Correct homework and exam papers
-
-
-### Numerical Methods, School of Mathematical Sciences
-
-Teaching assistant.
-
-Dublin City University
-
-2018 - 2017
-
-- Presenting to undergraduate level classes
-- Liase with lecturers on content of the course
-- Running practical tutorials on MATLAB
-
-<!-- Research Experience {data-icon=laptop} -->
-<!-- --------------------------------------------------------------------->
-
-<!-- ### Title -->
-
-<!-- Institude/School, Uni/Org -->
-
-<!-- Location -->
-
-<!-- Years -->
-
-<!-- - Description. -->
-<!-- - Description. -->
-
-<!-- ### Title -->
-
-<!-- Institute/School, Uni/Org -->
-
-<!-- Location -->
-
-<!-- Years -->
-
-<!-- - Description. -->
-<!-- - Description. -->
-
-<!-- ### Title -->
-
-<!-- Institude/School, Uni/Org -->
-
-<!-- Location -->
-
-<!-- Years -->
-
-<!-- - Description. -->
-<!-- - Description. -->
-
-<!-- Selected Publications and Posters {data-icon=file} -->
-<!-- -----------------------------------------------------------------
-
-<!-- ### Title. -->
-
-<!-- Description -->
-
-<!-- Location -->
-
-<!-- Year -->
-
-<!-- **Author**, Author, Author. -->
-
-<!-- ### Title. -->
-
-<!-- <!-- Example of reference in specific format --> 
-<!-- J Cell Sci. 2016 May 15;129(10):2075-84. -->
-
-<!-- <!-- If no location put N/A --> 
-<!-- N/A -->
-
-<!-- Year  -->
-
-<!-- Author, **Author**, Author.  -->
