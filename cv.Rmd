@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -42,7 +42,11 @@ Skills {#skills}
 Languages {#skills}
 --------------------------------------------------------------------------------
 
-- R / C++ / Python / C / SQL / CUDA / MPI / OpenMP / MATLAB / Bash
+- Expert in R,C and C++ 
+- Experienced in Python, SQL and MATLAB 
+- Parallel Processing with CUDA / MPI / OpenMP 
+- Linux Command Line (bash / zsh)
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------

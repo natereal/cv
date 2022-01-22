@@ -7,16 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Nathan Doyle" />
-    <meta name="date" content="2020-03-02" />
+    <meta name="date" content="2022-01-22" />
     <title>Nathan Doyle’s CV</title>
 
     
+        <script src="cv_files/header-attrs-2.11/header-attrs.js"></script>
         <link href="cv_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-    <link href="cv_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-    <link href="cv_files/paged-0.8/css/resume.css" rel="stylesheet" />
-    <script src="cv_files/paged-0.8/js/config.js"></script>
-    <script src="cv_files/paged-0.8/js/paged.js"></script>
-    <script src="cv_files/paged-0.8/js/hooks.js"></script>
+        <link href="cv_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+        <link href="cv_files/paged-0.16/css/resume.css" rel="stylesheet" />
+        <script src="cv_files/paged-0.16/js/config.js"></script>
+        <script src="cv_files/paged-0.16/js/paged.js"></script>
+        <script src="cv_files/paged-0.16/js/hooks.js"></script>
     
     
   </head>
@@ -47,13 +48,16 @@
 <div id="skills" class="section level2">
 <h2>Languages</h2>
 <ul>
-<li>R / C++ / Python / C / SQL / CUDA / MPI / OpenMP / MATLAB / Bash</li>
+<li>Expert in R,C and C++</li>
+<li>Experienced in Python, SQL and MATLAB</li>
+<li>Parallel Processing with CUDA / MPI / OpenMP</li>
+<li>Linux Command Line (bash / zsh)</li>
 </ul>
 </div>
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>
 <p>This resume was made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
-<p>Last updated on 2020-03-02.</p>
+<p>Last updated on 2022-01-22.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -62,7 +66,7 @@
 <h2>Nathan Doyle</h2>
 <div id="data-scientist" class="section level3">
 <h3>Data Scientist</h3>
-<p>Currently working as a Data Scientist on the Data Anlytics team in the Department of Agriculture, Food and the Marine. The data anlytics team provide a unified view of data to provide an improved understanding of the DAFM herd population. We provide analysis in order to better target services to customers and to inform policy decisions up to the EU level.</p>
+<p>Currently working as a Data Scientist on the Data Analytics Unit in the Department of Agriculture, Food and the Marine. The Data Analytics Unit provide a unified view of data to provide an improved understanding of the DAFM herd population. We provide analysis in order to better target services to customers and to inform policy decisions up to the EU level.</p>
 <p>My educational background is in computing, mathematics and statistics.</p>
 <p>In my free time I enjoy playing card games, particularly contract bridge. I am a former member of Ireland’s Junior Bridge Team with 18 international caps.</p>
 <!----------------------------------------------------------------------------->
@@ -198,8 +202,11 @@
     if (i === 0 && el.id === 'title') continue;
     el.className += ' main-block';
     if (el.dataset['concise']) el.className += ' concise';
-    s = el.dataset['icon'] || 'bookmark';
-    el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    // if there is no icon, add an icon:
+    if (el.firstElementChild.firstChild && el.firstElementChild.firstChild.nodeName !== 'I') {
+      s = el.dataset['icon'] || 'bookmark';
+      el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    }
   }
 
   // tweak class names of blocks in sections
