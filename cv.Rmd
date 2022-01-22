@@ -61,7 +61,7 @@ Nathan Doyle {#title}
 
 ### Data Scientist 
 
-Currently working as a Data Scientist on the Data Anlytics team in the Department of Agriculture, Food and the Marine. The data anlytics team provide a unified view of data to provide an improved understanding of the DAFM herd population. We provide analysis in order to better target services to customers and to inform policy decisions up to the EU level.
+Currently working as a Data Scientist on the Data Analytics Unit in the Department of Agriculture, Food and the Marine. The Data Analytics Unit provide a unified view of data to provide an improved understanding of the DAFM herd population. We provide analysis in order to better target services to customers and to inform policy decisions up to the EU level.
 
 My educational background is in computing, mathematics and statistics.
 
