@@ -100,33 +100,26 @@ Glasnevin, Dublin
 - Manage equipment and stationary, keep the room neat and tidy.
 - Co-ordinate with other staff to ensure the needs of the students are met during busy hours.
 
-Other Qualificatons {data-icon=envelope}
+Awards {data-icon=envelope}
 --------------------------------------------------------------------------------
 
-### Regional Tournament Director
+### Public Sector Analytics Award
 
-Contract Bridge Association Ireland
+Analytics & AI Awards
 
-Templeouge, Dublin 
+The Analytics Institute
 
-2019 - 2012
+2020
 
-- Organising structure and implementation of competitions
-- Apply laws of the game and resolve disputes
-- Deal with complaints from competitors
-- Calculate results, allocate prize money and award the prizes to winners
+- Farm to veterinary proximity and demographics project
 
-### Qualified Barista
+### IBM Future Tech Challenge 
 
-Dublin Barista School
+Department of Public Expenditure and Reform, IDA Ireland and Enterprise Ireland
 
-South Anne Street, Dublin
+2021
 
-2019
-
-- Certified by the World Barista Association
-- Prepartion of coffee, maintenance of equipment
-- Customer service and café workflow systems
+- Machine Learning TB Predictive Model
 
 \
 
